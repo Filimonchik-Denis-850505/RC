@@ -1,4 +1,4 @@
-# RC
+# RC (Remote Control)
 
 ## Docs
  
