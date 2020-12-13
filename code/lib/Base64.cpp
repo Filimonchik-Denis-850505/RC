@@ -22,7 +22,9 @@ static std::size_t pos_of_char(const unsigned char chr) {
 }
 
 static std::string insert_linebreaks(std::string str, size_t distance) {
-   
+    //
+    // Provided by https://github.com/JomaCorpFX, adapted by me.
+    //
     if (!str.length()) {
         return "";
     }
