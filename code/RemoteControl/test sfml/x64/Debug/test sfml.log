@@ -1,0 +1,52 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (test sfml.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Base64.cpp
+C:\Users\Denis\source\repos\test sfml\test sfml\Base64.cpp(113,51): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Denis\source\repos\test sfml\test sfml\Base64.cpp(131,74): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Denis\source\repos\test sfml\test sfml\Base64.cpp(133,100): warning C4267: аргумент: преобразование из "size_t" в "const _Elem"; возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Denis\source\repos\test sfml\test sfml\Base64.cpp(137,78): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Denis\source\repos\test sfml\test sfml\Base64.cpp(141,99): warning C4267: аргумент: преобразование из "size_t" в "const _Elem"; возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Denis\source\repos\test sfml\test sfml\Base64.cpp(152,92): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  Client.cpp
+C:\Users\Denis\source\repos\test sfml\test sfml\Client.cpp(16,35): warning C4267: аргумент: преобразование из "size_t" в "u_short"; возможна потеря данных
+  Server.cpp
+C:\Users\Denis\source\repos\test sfml\test sfml\Server.cpp(14,34): warning C4267: аргумент: преобразование из "size_t" в "u_short"; возможна потеря данных
+  Source.cpp
+C:\Users\Denis\source\repos\test sfml\test sfml\FormSFML.h(30,23): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Denis\source\repos\test sfml\test sfml\FormSFML.h(30,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Denis\source\repos\test sfml\test sfml\FormSFML.h(59,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Denis\source\repos\test sfml\test sfml\FormSFML.h(59,25): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Denis\source\repos\test sfml\test sfml\FormSFML.h(60,23): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Denis\source\repos\test sfml\test sfml\FormSFML.h(60,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Denis\source\repos\test sfml\test sfml\FormSFML.h(106,23): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Denis\source\repos\test sfml\test sfml\FormSFML.h(106,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Denis\source\repos\test sfml\test sfml\FormSFML.h(108,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Denis\source\repos\test sfml\test sfml\FormSFML.h(108,25): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Denis\source\repos\test sfml\test sfml\FormSFML.h(109,23): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Denis\source\repos\test sfml\test sfml\FormSFML.h(109,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Denis\source\repos\test sfml\test sfml\Source.cpp(142,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  test sfml.vcxproj -> C:\Users\Denis\source\repos\test sfml\x64\Debug\RemoteControl.exe
